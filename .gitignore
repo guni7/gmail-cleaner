@@ -1,0 +1,6 @@
+.DS_Store
+./gmail/credentials.json
+./sheets/credentials-sheets.json
+./gmail/token.json
+./sheets/token-sheets.json
+
